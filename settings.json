@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(taskkill *)",
+      "Bash(curl *)",
+      "Bash(powershell *)",
+      "Bash(timeout *)",
+      "Bash(tasklist)"
+    ]
+  },
+  "$version": 3
+}
